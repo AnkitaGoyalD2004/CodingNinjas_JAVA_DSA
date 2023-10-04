@@ -1,4 +1,5 @@
 package FunctionsAndScope;
+
 import java.util.Scanner;
 
 public class MoreOnFnc {
