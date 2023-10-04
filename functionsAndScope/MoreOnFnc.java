@@ -1,5 +1,6 @@
 package FunctionsAndScope;
 import java.util.Scanner;
+
 public class MoreOnFnc {
     // Sum of two numbers
 
